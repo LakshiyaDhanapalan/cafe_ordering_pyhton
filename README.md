@@ -1,4 +1,4 @@
-# cafe_ordering_pyhton
+# cafe_ordering_python
 🌸 Lavender & Lattes - Online Cafe Ordering
 Welcome to Lavender & Lattes, a beautifully designed desktop café ordering system built with Python (Tkinter) and SQLite. It allows users to browse items across categories, add items to their cart, and checkout with a detailed order summary
 ✅ Features
