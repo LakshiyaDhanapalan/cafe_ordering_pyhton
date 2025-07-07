@@ -66,3 +66,10 @@ Pillow (optional) for image support
 “Sip ☕ • Relax 🏋 • Enjoy 🍰”
 
 Made with love for coffee lovers. You made our day brew-tiful! 🌼
+
+You can clone this project using the following command:
+
+bash
+Copy
+Edit
+git clone https://github.com/LakshiyaDhanapalan/cafe_ordering_python.git
